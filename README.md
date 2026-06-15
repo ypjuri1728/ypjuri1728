@@ -9,11 +9,17 @@ and solving real-world problems using Python 📊🤖
 
 ## 🚀 Tech Stack
 
-### 👩‍💻 Programming & Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,django,git,vscode&theme=dark" />
-</p>
+🚀 Tech Stack
+🐍 Python
+📊 Jupyter
+🤖 ML Models
+📈 Data Analytics
+🌐 HTML
+NumPy
+Pandas
+Matplotlib
+Seaborn
+Scikit-learn
 
 
 ### 📊 Data Science & ML
