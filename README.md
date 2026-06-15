@@ -36,7 +36,7 @@ Scikit-learn
 - Improving **problem-solving skills**
 
 ---
-- GitHub: [Priyadav-28](https://github.com/Priyadav-28)
+- GitHub: [ypjuri1728](https://github.com/ypjuri1728)
 ---
 
 ## 📫 Connect with Me
