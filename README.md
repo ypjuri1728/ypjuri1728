@@ -9,16 +9,16 @@ and solving real-world problems using Python 📊🤖
 
 ## 🚀 Tech Stack
 
-🚀 Tech Stack
+
 🐍 Python
 📊 Jupyter
 🤖 ML Models
 📈 Data Analytics
 🌐 HTML
-NumPy
-Pandas
-Matplotlib
-Seaborn
+NumPy. 
+Pandas, 
+Matplotlib, 
+Seaborn, 
 Scikit-learn
 
 
