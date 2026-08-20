@@ -36,8 +36,6 @@ Scikit-learn
 - Improving **problem-solving skills**
 
 ---
-- GitHub: [ypjuri1728](https://github.com/ypjuri1728)
----
 
 ## 📫 Connect with Me
 
