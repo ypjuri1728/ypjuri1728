@@ -1,19 +1,71 @@
-# Hi 👋, I'm Priyanshi Yadav  
+# Hi, I'm Priyanshi Yadav 👋
 
-### Data Scientist | Python | 
+### Data Science & Analytics | Python | SQL | Machine Learning
 
-Passionate about working with data, building machine learning models,  
-and solving real-world problems using Python 📊🤖
+I'm a CSE student currently building my skills in **Data Science, Data Analytics and Machine Learning**.
+
+I enjoy working with data, finding patterns, creating visualizations, and building ML-based solutions from real-world datasets.
+
+---
+
+## 🚀 What I'm Currently Learning
+
+* 🐍 Python for Data Science
+* 📊 Pandas & NumPy
+* 📈 Exploratory Data Analysis (EDA)
+* 🗄️ SQL
+* 🤖 Machine Learning
+* 📉 Data Analytics
+* 📚 DSA with Java
 
 ---
 
-## 🌱 What I'm Currently Doing
-- Strengthening **Python & Data Scientist**
-- Learning **Machine Learning fundamentals**
-- Practicing **Git & GitHub**
-- Improving **problem-solving skills**
+## 🛠️ Tech Stack
 
+**Languages:**
+Python • Java • SQL • JavaScript
+
+**Data Science:**
+NumPy • Pandas • Matplotlib • Seaborn • Scikit-learn
+
+**Tools:**
+Git • GitHub • Jupyter Notebook • Google Colab • VS Code
 
 ---
-    
-                                                ⭐ *Always learning, always improving*
+
+## 📌 Featured Projects
+
+### 📊 Customer Segmentation & Churn Analysis
+
+Data analysis project focused on understanding customer behavior, segmentation and churn patterns.
+
+### 📱 Social Media Analytics
+
+Analyzing social media data to discover trends, engagement patterns and useful business insights.
+
+### 📈 EDA & Machine Learning Journey
+
+My practical journey of learning **Exploratory Data Analysis and Machine Learning** using real-world datasets.
+
+### 📚 DS & DA Daily Journey
+
+A structured repository where I document my learning journey across Python, SQL, Pandas and Data Science.
+
+---
+
+## 📈 My Current Focus
+
+> **Learn → Practice → Build → Analyze → Improve**
+
+I'm currently focusing on building more **real-world Data Science and Analytics projects** and strengthening my Machine Learning fundamentals.
+
+---
+
+## 🔗 Connect With Me
+
+* 💼 [LinkedIn](https://www.linkedin.com/in/priyanshi-yadav-53b719310/)
+* 🐙 [GitHub](https://github.com/ypjuri1728)
+
+---
+
+⭐ Thanks for visiting my profile!
